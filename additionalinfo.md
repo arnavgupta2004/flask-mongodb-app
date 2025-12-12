@@ -1,4 +1,4 @@
-# ✅ **1. Benefits of Using a Virtual Environment for Python Applications**
+# **1. Benefits of Using a Virtual Environment for Python Applications**
 
 Using a virtual environment (`venv`) provides several key advantages when developing Python applications:
 
@@ -29,7 +29,7 @@ Every modern Python project (Django, Flask, ML notebooks, etc.) uses virtual env
 
 ---
 
-# ✅ **2. Explanation of Resource Requests and Limits in Kubernetes**
+# **2. Explanation of Resource Requests and Limits in Kubernetes**
 
 Kubernetes resource management helps ensure fair usage of CPU and memory across pods.
 
@@ -72,7 +72,7 @@ limits:
 
 ---
 
-# ✅ **3. Design Choices — Explanation & Alternatives Considered**
+# **3. Design Choices — Explanation & Alternatives Considered**
 
 This section explains *why each major component was chosen*.
 
@@ -179,13 +179,13 @@ This section explains *why each major component was chosen*.
 
 ---
 
-# ✅ **4. Cookie Point — Testing Scenarios (Autoscaling + Database)**
+# **4. Cookie Point — Testing Scenarios (Autoscaling + Database)**
 
 Below is a ready-to-submit section describing your testing.
 
 ---
 
-# ⭐ **Testing Scenarios**
+# **Testing Scenarios**
 
 ## **1️⃣ MongoDB Connectivity Test**
 

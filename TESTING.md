@@ -1,4 +1,4 @@
-# ⭐ **TESTING.md**
+# **TESTING.md**
 
 # Testing Scenarios for Flask + MongoDB Kubernetes Deployment
 
@@ -13,7 +13,7 @@ It includes tests for:
 
 ---
 
-# ✅ **1. Verify All Pods Are Running**
+# **1. Verify All Pods Are Running**
 
 After applying all Kubernetes manifests:
 
